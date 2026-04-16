@@ -1,0 +1,13 @@
+{
+  "name": "live-trackers-suite",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Consolidated real-time trackers for ISS, aircraft, and satellites.",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
